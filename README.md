@@ -14,13 +14,15 @@
   
   
 </div align = "left"><img  src="https://komarev.com/ghpvc/?username=Anushas0312&style=for-the-badge&color=blueviolet" alt="profile views" /></div>
-## 💫 About Me
-- **Name: Anusha S
-- **Location: Mysuru, Karnataka  
-- **University: Maharaja Institue of Technology(MIT)
-- **Interests: "Travel,Music"
-- **Currently Learning: Full-Stack Web Development
 
+## 👨‍💻 About Me
+
+- **Name**: Anusha S 
+- **Location**: Mysuru, Karnataka  
+- **University**: Maharaja Institue of Technology(VTU)
+- **Interests**: "Travel,Music"
+- **Currently Learning**: Full-Stack Web Development
+- 
 ## 🛠️ My Tech Universe
 
 <div align="center">
