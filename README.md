@@ -13,11 +13,9 @@
   <p>✨ Building tomorrow's tech today ✨</p>
   
   
-</div>
-<img align = "left" src="https://komarev.com/ghpvc/?username=Anushas0312&style=for-the-badge&color=blueviolet" alt="profile views" />
+</div align = "left"><img  src="https://komarev.com/ghpvc/?username=Anushas0312&style=for-the-badge&color=blueviolet" alt="profile views" /></div>
 ## 💫 About Me
 
-```javascript
 const anusha = {
   location: "Bangalore, India",
   education: "Computer Science Engineering",
@@ -26,7 +24,6 @@ const anusha = {
   funFact: "I can debug code while drinking coffee upside down! ☕",
   lifePhilosophy: "Code. Create. Innovate. Repeat."
 };
-```
 
 - 🔭 I'm currently working on **expanding my web development portfolio**
 - 🌱 I'm currently learning **advanced React patterns and cloud architecture**
