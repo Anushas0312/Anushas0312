@@ -109,8 +109,8 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anusha-s-ab3501281/"><img src="https://img.icons8.com/color/48/linkedin.png" width="50"/></a>
-  <a href="https://www.instagram.com/anusha__312/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50"/></a>
+  <a href="https://www.linkedin.com/in/anusha-s-ab3501281/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="50"/></a>
+  <a href="https://www.instagram.com/anusha__312/"  target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50"/></a>
 </p>
 
 
