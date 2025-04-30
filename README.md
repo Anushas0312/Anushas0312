@@ -28,6 +28,7 @@
     <tr>
       <td valign="top" width="33%">
         <h3 align="center">Frontend</h3>
+        <div align="center">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -93,15 +94,15 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik1772&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik1772&layout=compact&theme=react" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushas0312&theme=react" alt="Anusha's Github Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushas0312&show_icons=true&theme=react" alt="Anusha's Github Stats" width="49%" />
+</div>
 
 ## 🔝 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushas0312&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0d1117" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushas0312&theme=react&layout=compact" alt="Top Languages" width="40%" />
 </div>
 
 ## 🌐 Connect With Me
