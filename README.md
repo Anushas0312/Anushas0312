@@ -28,7 +28,6 @@
     <tr>
       <td valign="top" width="33%">
         <h3 align="center">Frontend</h3>
-gn="center">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -47,9 +46,6 @@ gn="center">
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
           <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
         </div>
       </td>
     </tr>
@@ -97,14 +93,10 @@ gn="center">
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushas0312&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=9370DB&text_color=c9d1d9&bg_color=0d1117" alt="Anusha's Github Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushas0312&hide_border=true&stroke=0000&background=0D1117&ring=6A5ACD&fire=9370DB&currStreakLabel=9370DB&theme=dark" alt="Anusha's Github Streak" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anushas0312&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="98%" alt="Trophy" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik1772&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik1772&layout=compact&theme=react" />
+</p>
 
 ## 🔝 Most Used Languages
 
@@ -114,26 +106,10 @@ gn="center">
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/anusha-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/AnushaS0312" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/anusha.codes" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://dev.to/anushas0312" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="mailto:anusha.s0312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://anushas0312.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-9370DB?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anusha-s-ab3501281/"><img src="https://img.icons8.com/color/48/linkedin.png" width="50"/></a>
+  <a href="https://www.instagram.com/anusha__312/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50"/></a>
+</p>
 
 ## 🎵 Currently Vibing To
 
