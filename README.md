@@ -121,7 +121,7 @@
 ## 💭 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <p>Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.</p>
 </div>
 
 ---
