@@ -116,8 +116,9 @@
 
 ## 💭 Quote of the Day
 
-<div align="center">
-  <p>Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.</p>
+<div align="left">
+  <p>"Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging."</p>
+  <p><em>— Douglas Crockford</em></p>
 </div>
 
 ---
