@@ -94,10 +94,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushas0312&theme=react" alt="Anusha's Github Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushas0312&show_icons=true&theme=react" alt="Anusha's Github Stats" width="49%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik1772&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik1772&layout=compact&theme=react" />
+</p>
+
 
 ## 🔝 Most Used Languages
 
@@ -112,11 +113,6 @@
   <a href="https://www.instagram.com/anusha__312/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50"/></a>
 </p>
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bzpnxh5znjzbbcjtzluqwo7o4a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify"/>
-</div>
 
 ## 💭 Quote of the Day
 
