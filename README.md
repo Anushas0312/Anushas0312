@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Anusha's%20Digital%20Universe&descAlignY=55&descAlign=50" width="100%"/>
 </div>
+
 # <div align="center">👋 Hi there, I'm Anusha S!</div>
 
 <div align="center">
