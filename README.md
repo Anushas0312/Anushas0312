@@ -12,9 +12,9 @@
   <p>🌟 Creating elegant solutions through code | Transforming ideas into digital reality 🌟</p>
   <p>✨ Building tomorrow's tech today ✨</p>
   
-  <img src="https://komarev.com/ghpvc/?username=Anushas0312&style=for-the-badge&color=blueviolet" alt="profile views" />
+  
 </div>
-
+<img align = "left" src="https://komarev.com/ghpvc/?username=Anushas0312&style=for-the-badge&color=blueviolet" alt="profile views" />
 ## 💫 About Me
 
 ```javascript
